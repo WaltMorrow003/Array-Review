@@ -42,7 +42,7 @@ nextNum(100) => 101
 
 function nextNum(number){
   //CODE BELOW HERE
-
+ nextNum('6')
 
 
   //CODE ABOVE HERE
@@ -64,7 +64,7 @@ EXAMPLE:
 
 function countVowels(string){
   //CODE BELOW HERE
-
+ countVowels('Goku')
 
   //CODE ABOVE HERE
 }
@@ -84,7 +84,9 @@ evenIndicies(otherArray) => false
 
 function evenIndicies(array){
   //CODE BELOW HERE
+  var myArray = [6,9,10,12]
+  var myOtherArray = [3,8,13,14]
 
-
+  
   //CODE ABOVE HERE
 }
